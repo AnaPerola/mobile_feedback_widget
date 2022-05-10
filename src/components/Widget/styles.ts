@@ -12,6 +12,6 @@ export const styles = StyleSheet.create({
     alignItems: 'center',
     position: 'absolute',
     right: 16,
-    bottom: getBottomSpace() + 16;
+    bottom: getBottomSpace() + 16,
   }
 })
