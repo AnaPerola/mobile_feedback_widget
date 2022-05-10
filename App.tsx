@@ -9,7 +9,7 @@ import { useFonts, Inter_400Regular, Inter_500Medium } from '@expo-google-fonts/
 import * as SplashScreen from 'expo-splash-screen';
 
 import { theme } from './src/theme';
-import { Widget } from './src/components/Widget';
+import Widget from './src/components/Widget';
 
 export default function App() {
   SplashScreen.preventAutoHideAsync();
