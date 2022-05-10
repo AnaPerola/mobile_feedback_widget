@@ -1,8 +1,9 @@
-import { View, TouchableOpacity } from "react-native";
-import { ChatTeardropDots } from 'phosphor-react'
+import React from 'react';
+import { TouchableOpacity } from 'react-native';
+import { ChatTeardropDots} from 'phosphor-react-native';
 
-import { styles } from "./styles";
-import { theme } from "../../theme";
+import { styles } from './styles';
+import { theme } from '../../theme';
 
 export function Widget() {
   return (
