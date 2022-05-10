@@ -8,7 +8,7 @@ import { theme } from '../../theme';
 export function Widget() {
   return (
     <>
-      <TouchableOpacity>
+      <TouchableOpacity style={styles.button}>
         <ChatTeardropDots 
           size={24}
           weight="bold"
