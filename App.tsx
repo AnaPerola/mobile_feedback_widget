@@ -12,7 +12,11 @@ export default function App() {
     }}
     >
       <Widget />
-      <StatusBar style="auto" />
+      <StatusBar 
+        style="auto"
+        backgroundColor="transparent"
+        translucent
+      />
     </View>
   );
 }
