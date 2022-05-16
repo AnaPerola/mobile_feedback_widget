@@ -35,25 +35,25 @@ Esse projeto é um Widget (elemento de interação) de Feedback que pode ser uti
 - [X] `Descrição de feedback`: Descrição em campo de formulário para inserir detalhes qual problema/ideia/outro tipo de feedback desejavel para envio.
 - [X] `Screenshot`: Captura a tela atual que se refere ao feedback.
 - [X] `Envio de Feedback`: Envio deste formulario preenchido com o screenshot para o Backend fazer as devidas validações.
+#
+
+ 💡 **Este projeto é divido em três partes:**
+
+1. Frontend (https://github.com/AnaPerola/web_feedback_widget)
+2. Backend (https://github.com/AnaPerola/server_feedback_widget)
+3. Mobile (Projeto atual)
+
+⚠️ Tanto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado para funcionar.
+
+#
 
 ## 📋 Pré-requisitos
 
 - [Nodejs > 14.15v](https://nodejs.org/en/)
 - [Expo](https://nodejs.org/en/)
 
-#
 
- 💡 **Este projeto é divido em três partes:**
-
-1. Frontend (https://github.com/AnaPerola/web_feedback_widget)
-2. Backend (Projeto atual)
-3. Mobile (https://github.com/AnaPerola/mobile_feedback_widget)
-
-⚠️ Tanto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado para funcionar.
-
-#
-
-### Instando Expo-cli:
+## Instando Expo-cli:
 
 - NPM
 
@@ -80,7 +80,7 @@ Para instalá-lo, basta buscar nas lojas o aplicativo Expo Go:
 [Expo - Apps no Google Play](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR&gl=US)
 
 [‎Expo Go](https://apps.apple.com/br/app/expo-go/id982107779)
-
+# 
 ## 🔧 Iniciando o projeto
 
 1 - Clone o projeto
