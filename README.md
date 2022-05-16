@@ -109,31 +109,26 @@ Com o projeto Expo rodando no seu computador, basta conectar o celular na mesma 
 
 <div style="display: inline_block"><br>
   <img
-    align="center"
     alt="Ana-ReactNative" 
     style="height:30px; width:40px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
   >
   <img
-    align="center"
     alt="Ana-expo"
     style="height:30px; width:40px;"
     src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s"
   />
   <img
-    align="center"
     alt="Ana-Typescrit"
     style="height:30px; width:40px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" 
   />
   <img
-    align="center"
     alt="Ana-NPM"
     style="height:30px; width:40px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" 
   />
   <img
-    align="center"
     alt="Ana-axios"
     style="height:30px; width:40px;"
     src="https://user-images.githubusercontent.com/43313420/105883616-57dbeb00-6007-11eb-9df2-de0e2a42655c.png" 
