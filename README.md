@@ -105,9 +105,7 @@ Com o projeto Expo rodando no seu computador, basta conectar o celular na mesma 
 
 #
 
-#
-
-<div>
+<div align="center" style="display:flex; padding:5px; ">
   <img
     alt="Ana-ReactNative" 
     style="height:30px; width:40px;"
